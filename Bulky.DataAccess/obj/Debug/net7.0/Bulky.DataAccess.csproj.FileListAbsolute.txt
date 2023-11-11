@@ -1,0 +1,76 @@
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.deps.json
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.runtimeconfig.json
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.dll
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.pdb
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.dll
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.dll
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.pdb
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.pdb
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CopyComplete
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.dll
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\refint\Bulky.DataAccess.dll
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.pdb
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.genruntimeconfig.cache
+D:\Users\Birju sharma\source\repos\Bulky.DataAccess\obj\Debug\net7.0\ref\Bulky.DataAccess.dll
+D:\deta for c new\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.deps.json
+D:\deta for c new\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.runtimeconfig.json
+D:\deta for c new\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.dll
+D:\deta for c new\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.pdb
+D:\deta for c new\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.dll
+D:\deta for c new\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.dll
+D:\deta for c new\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.pdb
+D:\deta for c new\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.pdb
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CopyComplete
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.dll
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\refint\Bulky.DataAccess.dll
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.pdb
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.genruntimeconfig.cache
+D:\deta for c new\Bulky.DataAccess\obj\Debug\net7.0\ref\Bulky.DataAccess.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.deps.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\refint\Bulky.DataAccess.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.DataAccess\obj\Debug\net7.0\ref\Bulky.DataAccess.dll
+E:\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.deps.json
+E:\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.runtimeconfig.json
+E:\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.dll
+E:\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.DataAccess.pdb
+E:\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.dll
+E:\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.dll
+E:\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Models.pdb
+E:\sharing\Bulky.DataAccess\bin\Debug\net7.0\Bulky.Utility.pdb
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.AssemblyInfo.cs
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.csproj.CopyComplete
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.dll
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\refint\Bulky.DataAccess.dll
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.pdb
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\Bulky.DataAccess.genruntimeconfig.cache
+E:\sharing\Bulky.DataAccess\obj\Debug\net7.0\ref\Bulky.DataAccess.dll

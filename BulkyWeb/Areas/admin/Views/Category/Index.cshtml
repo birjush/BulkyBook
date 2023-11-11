@@ -1,0 +1,53 @@
+﻿@model List<Category>
+
+<partial name="_Notification" />
+
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2 text-center">
+                    Categories List
+                </h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body p-4">
+        <div class="container">
+            <div class="row pt-4 pb-3">
+                <div class="col-12 text-end">
+                    <a asp-controller="Category" asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle"></i>  Create New Category</a>
+                </div>
+            </div>
+            <table class="table table-bordered table-stripped">
+
+                <tr>
+                    <th>Category Name</th>
+                    <th>Display Order</th>
+                    <th>Actions</th>
+                </tr>
+                @foreach (var a in Model)
+                {
+                    <tr>
+                        <td>@a.Name</td>
+                        <td>@a.Display_Order</td>
+                        <td>
+                            <div class="w-75 btn-group" role="group">
+                                <a class="btn btn-primary mx-2" asp-controller="Category" asp-route-id="@a.Category_Id" asp-action="Edit">
+                                    <i class="bi bi-pencil-square"></i> Edit
+                                </a>
+
+                                <a class="btn btn-danger mx-2" asp-controller="Category" asp-route-id="@a.Category_Id" asp-action="Delete">
+                                    <i class="bi bi-trash"></i> Delete
+                                </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,56 @@
+D:\Users\Birju sharma\source\repos\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+D:\Users\Birju sharma\source\repos\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.runtimeconfig.json
+D:\Users\Birju sharma\source\repos\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+D:\Users\Birju sharma\source\repos\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.genruntimeconfig.cache
+D:\Users\Birju sharma\source\repos\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+D:\deta for c new\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+D:\deta for c new\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.runtimeconfig.json
+D:\deta for c new\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+D:\deta for c new\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.genruntimeconfig.cache
+D:\deta for c new\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll
+E:\sharing\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.deps.json
+E:\sharing\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.runtimeconfig.json
+E:\sharing\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.dll
+E:\sharing\Bulky.Utility\bin\Debug\net7.0\Bulky.Utility.pdb
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.AssemblyReference.cache
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfoInputs.cache
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.AssemblyInfo.cs
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.dll
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\refint\Bulky.Utility.dll
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.pdb
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\Bulky.Utility.genruntimeconfig.cache
+E:\sharing\Bulky.Utility\obj\Debug\net7.0\ref\Bulky.Utility.dll

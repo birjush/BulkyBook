@@ -1,0 +1,1087 @@
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\appsettings.json
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\BulkyWeb.staticwebassets.runtime.json
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\BulkyWeb.exe
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\BulkyWeb.deps.json
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\BulkyWeb.runtimeconfig.json
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\BulkyWeb.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\BulkyWeb.pdb
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Azure.Core.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Azure.Identity.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Humanizer.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.AssemblyReference.cache
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.AssemblyInfoInputs.cache
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.AssemblyInfo.cs
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CoreCompileInputs.cache
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.RazorAssemblyInfo.cache
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.RazorAssemblyInfo.cs
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BulkyWeb.props
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BulkyWeb.props
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BulkyWeb.props
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\scopedcss\bundle\BulkyWeb.styles.css
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\scopedcss\projectbundle\BulkyWeb.bundle.scp.css
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CopyComplete
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\refint\BulkyWeb.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.pdb
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.genruntimeconfig.cache
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\ref\BulkyWeb.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.Common.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Bulky.Models.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.pdb
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Bulky.Models.pdb
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.pdb
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Users\Birju sharma\source\repos\BulkyWeb\obj\Debug\net7.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\appsettings.Development.json
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\appsettings.json
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\BulkyWeb.staticwebassets.runtime.json
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\BulkyWeb.exe
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\BulkyWeb.deps.json
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\BulkyWeb.runtimeconfig.json
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\BulkyWeb.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\BulkyWeb.pdb
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Azure.Core.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Azure.Identity.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Humanizer.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Build.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.Common.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.CodeDom.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Memory.Data.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Bulky.Models.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.pdb
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Bulky.Models.pdb
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.pdb
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.AssemblyReference.cache
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.AssemblyInfoInputs.cache
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.AssemblyInfo.cs
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CoreCompileInputs.cache
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.RazorAssemblyInfo.cache
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.RazorAssemblyInfo.cs
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BulkyWeb.props
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BulkyWeb.props
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BulkyWeb.props
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\staticwebassets.pack.json
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\staticwebassets.build.json
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\staticwebassets.development.json
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\scopedcss\bundle\BulkyWeb.styles.css
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\scopedcss\projectbundle\BulkyWeb.bundle.scp.css
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CopyComplete
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.dll
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\refint\BulkyWeb.dll
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.pdb
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\BulkyWeb.genruntimeconfig.cache
+D:\deta for c new\BulkyWeb\obj\Debug\net7.0\ref\BulkyWeb.dll
+D:\deta for c new\BulkyWeb\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.exe
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.deps.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Stripe.net.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.Models.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.Models.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BulkyWeb.props
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BulkyWeb.props
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BulkyWeb.props
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\scopedcss\bundle\BulkyWeb.styles.css
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\scopedcss\projectbundle\BulkyWeb.bundle.scp.css
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\refint\BulkyWeb.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.pdb
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\ref\BulkyWeb.dll
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.GenerateResource.cache
+E:\sharing\BulkyWeb\bin\Debug\net7.0\appsettings.Development.json
+E:\sharing\BulkyWeb\bin\Debug\net7.0\appsettings.json
+E:\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.staticwebassets.runtime.json
+E:\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.exe
+E:\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.deps.json
+E:\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.runtimeconfig.json
+E:\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\BulkyWeb.pdb
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Azure.Core.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Azure.Identity.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Humanizer.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Build.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Common.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Stripe.net.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.CodeDom.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Memory.Data.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.Models.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.dll
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.DataAccess.pdb
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.Models.pdb
+E:\sharing\BulkyWeb\bin\Debug\net7.0\Bulky.Utility.pdb
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.AssemblyReference.cache
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.Properties.Resources.resources
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.GenerateResource.cache
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.GeneratedMSBuildEditorConfig.editorconfig
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.AssemblyInfoInputs.cache
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.AssemblyInfo.cs
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CoreCompileInputs.cache
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.RazorAssemblyInfo.cache
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.RazorAssemblyInfo.cs
+E:\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props
+E:\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BulkyWeb.props
+E:\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BulkyWeb.props
+E:\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BulkyWeb.props
+E:\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets.pack.json
+E:\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets.build.json
+E:\sharing\BulkyWeb\obj\Debug\net7.0\staticwebassets.development.json
+E:\sharing\BulkyWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\sharing\BulkyWeb\obj\Debug\net7.0\scopedcss\bundle\BulkyWeb.styles.css
+E:\sharing\BulkyWeb\obj\Debug\net7.0\scopedcss\projectbundle\BulkyWeb.bundle.scp.css
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.csproj.CopyComplete
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.dll
+E:\sharing\BulkyWeb\obj\Debug\net7.0\refint\BulkyWeb.dll
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.pdb
+E:\sharing\BulkyWeb\obj\Debug\net7.0\BulkyWeb.genruntimeconfig.cache
+E:\sharing\BulkyWeb\obj\Debug\net7.0\ref\BulkyWeb.dll

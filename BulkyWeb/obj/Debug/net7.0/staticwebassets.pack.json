@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\book.png",
+      "PackagePath": "staticwebassets\\Images\\book.png"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\Images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\1047320d-d0e4-43c4-a32b-ba6e9a2a0cba.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\1047320d-d0e4-43c4-a32b-ba6e9a2a0cba.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\2292caa0-b1bc-4c2d-90f7-cf7e1eae33ff.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\2292caa0-b1bc-4c2d-90f7-cf7e1eae33ff.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\23975104-0183-4cd6-a6cc-b4fcb8f9d800.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\23975104-0183-4cd6-a6cc-b4fcb8f9d800.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\2a21c9d0-4891-4906-a6ff-e63597ab606f.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\2a21c9d0-4891-4906-a6ff-e63597ab606f.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\2b7f5fd5-6a4b-4642-9e12-d34d1f4a26cc.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\2b7f5fd5-6a4b-4642-9e12-d34d1f4a26cc.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\351d91b5-19e6-4ee3-8482-cad0da8e982f.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\351d91b5-19e6-4ee3-8482-cad0da8e982f.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\3c50890d-90ff-4669-9b10-ce7d6fb35909.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\3c50890d-90ff-4669-9b10-ce7d6fb35909.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\5ffe20d1-a5f7-49f2-b5f7-7f17ea53023d.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\5ffe20d1-a5f7-49f2-b5f7-7f17ea53023d.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\63ca4170-6f22-480b-b822-b3d57f655e98.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\63ca4170-6f22-480b-b822-b3d57f655e98.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\7de54c3a-080a-4d3c-804a-ca1df85da339.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\7de54c3a-080a-4d3c-804a-ca1df85da339.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\7e29e993-a52b-4633-b0be-ae5828e9e892.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\7e29e993-a52b-4633-b0be-ae5828e9e892.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\86760852-9467-4685-a93c-7cd6a77bd5e0.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\86760852-9467-4685-a93c-7cd6a77bd5e0.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\99fd432e-f23b-41e4-b614-dfe78d7a987c.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\99fd432e-f23b-41e4-b614-dfe78d7a987c.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\9ada6e5c-c590-4a04-a282-3cc22cb8bb9a.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\9ada6e5c-c590-4a04-a282-3cc22cb8bb9a.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\a069f50f-73dd-4a48-b95e-64c0087de300.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\a069f50f-73dd-4a48-b95e-64c0087de300.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\abf3653b-a98b-443d-812c-f31c6323a878.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\abf3653b-a98b-443d-812c-f31c6323a878.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\b23d0798-aa42-4aa7-8570-69835364e4b4.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\b23d0798-aa42-4aa7-8570-69835364e4b4.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\be9c287c-b475-4e32-9460-f0dd2ead9079.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\be9c287c-b475-4e32-9460-f0dd2ead9079.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\beeba3ef-f620-41d7-9c62-d26b9fe05086.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\beeba3ef-f620-41d7-9c62-d26b9fe05086.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\c1b4d3f9-e0a7-4ae5-9807-573a692a6fc8.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\c1b4d3f9-e0a7-4ae5-9807-573a692a6fc8.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\c71559e4-5064-47e7-ae4f-13eda6420aa8.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\c71559e4-5064-47e7-ae4f-13eda6420aa8.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\d2ba77b1-4b78-44b1-8729-4ae2e2cbfb82.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\d2ba77b1-4b78-44b1-8729-4ae2e2cbfb82.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\dae6a418-858e-4e77-abda-3a5e4f00537f.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\dae6a418-858e-4e77-abda-3a5e4f00537f.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\e1d3f788-56e6-475f-bdc7-76ed68c4cdbc.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\e1d3f788-56e6-475f-bdc7-76ed68c4cdbc.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\e89f5d47-83b7-47d3-ac32-daf32dabbcac.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\e89f5d47-83b7-47d3-ac32-daf32dabbcac.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\Images\\product\\eba1e811-fc00-4445-b73d-ae0908d635e4.jpg",
+      "PackagePath": "staticwebassets\\Images\\product\\eba1e811-fc00-4445-b73d-ae0908d635e4.jpg"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\sharing\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
+      "PackagePath": "build\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
+      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
+      "PackagePath": "buildTransitive\\BulkyWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
